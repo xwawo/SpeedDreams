@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    file                 : usr.xml
+    created              : Wed Jan 8 18:31:16 CET 2003
+    copyright            : (C) 2002 Andrew Sumner
+    email                : firechief@bluewin.ch
+    version              : $Id$
+-->
+<!--    This program is free software; you can redistribute it and/or modify  -->
+<!--    it under the terms of the GNU General Public License as published by  -->
+<!--    the Free Software Foundation; either version 2 of the License, or     -->
+<!--    (at your option) any later version.                                   -->
+<!DOCTYPE params SYSTEM "../../libs/tgf/params.dtd">
+<params name="sc" type="robotdef">
+  <section name="Robots">
+    <section name="index">
+      <section name="1">
+        <attstr name="name" val="Arne Fischer"/>
+        <attstr name="short name" val="A. Fischer"/>
+        <attstr name="code name" val="FIS"/>
+        <attstr name="desc" val=""/>
+        <attstr name="team" val="usr-996"/>
+        <attstr name="author" val="Andrew Sumner"/>
+        <attstr name="car name" val="sc-boxer-96"/>
+        <attnum name="race number" val="7"/>
+        <attnum name="red" val="0.9"/>
+        <attnum name="green" val="0.9"/>
+        <attnum name="blue" val="0.9"/>
+        <attstr name="features" val="wet track"/>
+        <attstr name="nation" val="UK"/>
+      </section>
+      <section name="2">
+        <attstr name="name" val="Hans Meyer"/>
+        <attstr name="short name" val="H. Meyer"/>
+        <attstr name="code name" val="MEY"/>
+        <attstr name="desc" val=""/>
+        <attstr name="team" val="usr-996"/>
+        <attstr name="author" val="Andrew Sumner"/>
+        <attstr name="car name" val="sc-boxer-96"/>
+        <attnum name="race number" val="8"/>
+        <attnum name="red" val="0.9"/>
+        <attnum name="green" val="0.9"/>
+        <attnum name="blue" val="0.9"/>
+        <attstr name="features" val="wet track"/>
+        <attstr name="nation" val="CH"/>
+      </section>
+      <section name="3">
+        <attstr name="name" val="Jackie Graham"/>
+        <attstr name="short name" val="J. Graham"/>
+        <attstr name="code name" val="GRA"/>
+        <attstr name="desc" val=""/>
+        <attstr name="team" val="usr-spirit"/>
+        <attstr name="author" val="Andrew Sumner"/>
+        <attstr name="car name" val="sc-spirit-300"/>
+        <attnum name="race number" val="18"/>
+        <attnum name="red" val="1.0"/>
+        <attnum name="green" val="0.2"/>
+        <attnum name="blue" val="0.2"/>
+        <attstr name="features" val="wet track"/>
+        <attstr name="nation" val="UK"/>
+      </section>
+      <section name="4">
+        <attstr name="name" val="Steve Magson"/>
+        <attstr name="short name" val="S. Magson"/>
+        <attstr name="code name" val="MAG"/>
+        <attstr name="desc" val=""/>
+        <attstr name="team" val="usr-spirit"/>
+        <attstr name="author" val="Andrew Sumner"/>
+        <attstr name="car name" val="sc-spirit-300"/>
+        <attnum name="race number" val="20"/>
+        <attnum name="red" val="1.0"/>
+        <attnum name="green" val="0.2"/>
+        <attnum name="blue" val="0.2"/>
+        <attstr name="features" val="wet track"/>
+        <attstr name="nation" val="US"/>
+      </section>
+      <section name="5">
+        <attstr name="name" val="Tony Davies"/>
+        <attstr name="short name" val="T. Davies"/>
+        <attstr name="code name" val="DAV"/>
+        <attstr name="desc" val=""/>
+        <attstr name="team" val="usr-f360"/>
+        <attstr name="author" val="Andrew Sumner"/>
+        <attstr name="car name" val="sc-cavallo-360"/>
+        <attnum name="race number" val="11"/>
+        <attnum name="red" val="0.8"/>
+        <attnum name="green" val="0.7"/>
+        <attnum name="blue" val="0.2"/>
+        <attstr name="features" val="wet track"/>
+        <attstr name="nation" val="US"/>
+      </section>
+      <section name="6">
+        <attstr name="name" val="Ken Rayner"/>
+        <attstr name="short name" val="K. Rayner"/>
+        <attstr name="code name" val="RAY"/>
+        <attstr name="desc" val=""/>
+        <attstr name="team" val="usr-f360"/>
+        <attstr name="author" val="Andrew Sumner"/>
+        <attstr name="car name" val="sc-cavallo-360"/>
+        <attnum name="race number" val="34"/>
+        <attnum name="red" val="1.0"/>
+        <attnum name="green" val="0.5"/>
+        <attnum name="blue" val="0.0"/>
+        <attstr name="features" val="wet track"/>
+        <attstr name="nation" val="JP"/>
+      </section>
+      <section name="7">
+        <attstr name="name" val="Mark Duncan"/>
+        <attstr name="short name" val="M. Duncan"/>
+        <attstr name="code name" val="DUN"/>
+        <attstr name="desc" val=""/>
+        <attstr name="team" val="usr-gt4"/>
+        <attstr name="author" val="Andrew Sumner"/>
+        <attstr name="car name" val="sc-fmc-gt4"/>
+        <attnum name="race number" val="25"/>
+        <attnum name="red" val="0.4"/>
+        <attnum name="green" val="0.4"/>
+        <attnum name="blue" val="1.0"/>
+        <attstr name="features" val="wet track"/>
+        <attstr name="nation" val="UK"/>
+      </section>
+      <section name="8">
+        <attstr name="name" val="Chuck Davis Jr"/>
+        <attstr name="short name" val="C. Davis"/>
+        <attstr name="code name" val="DJR"/>
+        <attstr name="desc" val=""/>
+        <attstr name="team" val="usr-gt4"/>
+        <attstr name="author" val="Andrew Sumner"/>
+        <attstr name="car name" val="sc-fmc-gt4"/>
+        <attnum name="race number" val="40"/>
+        <attnum name="red" val="0.7"/>
+        <attnum name="green" val="0.7"/>
+        <attnum name="blue" val="0.7"/>
+        <attstr name="features" val="wet track"/>
+        <attstr name="nation" val="UK"/>
+      </section>
+      <section name="9">
+        <attstr name="name" val="Stefan Larsson"/>
+        <attstr name="short name" val="S. Larsson"/>
+        <attstr name="code name" val="LAR"/>
+        <attstr name="desc" val=""/>
+        <attstr name="team" val="usr-lynx"/>
+        <attstr name="author" val="Andrew Sumner"/>
+        <attstr name="car name" val="sc-lynx-220"/>
+        <attnum name="race number" val="29"/>
+        <attnum name="red" val="0.7"/>
+        <attnum name="green" val="0.7"/>
+        <attnum name="blue" val="0.7"/>
+        <attstr name="features" val="wet track"/>
+        <attstr name="nation" val="DK"/>
+      </section>
+      <section name="10">
+        <attstr name="name" val="Don Nelson"/>
+        <attstr name="short name" val="D. Nelson"/>
+        <attstr name="code name" val="NEL"/>
+        <attstr name="desc" val=""/>
+        <attstr name="team" val="usr-lynx"/>
+        <attstr name="author" val="Andrew Sumner"/>
+        <attstr name="car name" val="sc-lynx-220"/>
+        <attnum name="race number" val="48"/>
+        <attnum name="red" val="0.7"/>
+        <attnum name="green" val="0.7"/>
+        <attnum name="blue" val="0.7"/>
+        <attstr name="features" val="wet track"/>
+        <attstr name="nation" val="IE"/>
+      </section>
+      <section name="11">
+        <attstr name="name" val="Mick Donna"/>
+        <attstr name="short name" val="M. Donna"/>
+        <attstr name="code name" val="DON"/>
+        <attstr name="desc" val=""/>
+        <attstr name="team" val="usr-nsx"/>
+        <attstr name="author" val="Wolf-Dieter Beelitz"/>
+        <attstr name="car name" val="sc-murasama-nsx"/>
+        <attnum name="race number" val="12"/>
+        <attnum name="red" val="0.8"/>
+        <attnum name="green" val="0.7"/>
+        <attnum name="blue" val="0.2"/>
+        <attstr name="features" val="wet track"/>
+        <attstr name="nation" val="US"/>
+      </section>
+      <section name="12">
+        <attstr name="name" val="Greg Wilson"/>
+        <attstr name="short name" val="G. Wilson"/>
+        <attstr name="code name" val="WIL"/>
+        <attstr name="desc" val=""/>
+        <attstr name="team" val="usr-nsx"/>
+        <attstr name="author" val="Wolf-Dieter Beelitz"/>
+        <attstr name="car name" val="sc-murasama-nsx"/>
+        <attnum name="race number" val="13"/>
+        <attnum name="red" val="0.8"/>
+        <attnum name="green" val="0.7"/>
+        <attnum name="blue" val="0.2"/>
+        <attstr name="features" val="wet track"/>
+        <attstr name="nation" val="AU"/>
+      </section>
+      <section name="13">
+        <attstr name="name" val="Konsta Jussilainen"/>
+        <attstr name="short name" val="K. Jussilainen"/>
+        <attstr name="code name" val="JUS"/>
+        <attstr name="desc" val=""/>
+        <attstr name="team" val="usr-deckard"/>
+        <attstr name="author" val="Xavier Bertaux"/>
+        <attstr name="car name" val="sc-deckard-conejo"/>
+        <attnum name="race number" val="29"/>
+        <attnum name="red" val="0.7"/>
+        <attnum name="green" val="0.5"/>
+        <attnum name="blue" val="0.7"/>
+        <attstr name="features" val="wet track"/>
+        <attstr name="nation" val="DK"/>
+      </section>
+      <section name="14">
+        <attstr name="name" val="Nathanael Holmgren"/>
+        <attstr name="short name" val="N. Holmgren"/>
+        <attstr name="code name" val="HOL"/>
+        <attstr name="desc" val=""/>
+        <attstr name="team" val="usr-deckard"/>
+        <attstr name="author" val="Xavier Bertaux"/>
+        <attstr name="car name" val="sc-deckard-conejo"/>
+        <attnum name="race number" val="48"/>
+        <attnum name="red" val="0.7"/>
+        <attnum name="green" val="0.4"/>
+        <attnum name="blue" val="0.7"/>
+        <attstr name="features" val="wet track"/>
+        <attstr name="nation" val="SE"/>
+      </section>
+      <section name="15">
+        <attstr name="name" val="Arthur Jette"/>
+        <attstr name="short name" val="A. Jette"/>
+        <attstr name="code name" val="JET"/>
+        <attstr name="desc" val=""/>
+        <attstr name="team" val="usr-kanagawa"/>
+        <attstr name="author" val="Xavier Bertaux"/>
+        <attstr name="car name" val="sc-kanagawa-z35gts"/>
+        <attnum name="race number" val="12"/>
+        <attnum name="red" val="0.5"/>
+        <attnum name="green" val="0.7"/>
+        <attnum name="blue" val="0.2"/>
+        <attstr name="features" val="wet track"/>
+        <attstr name="nation" val="UK"/>
+      </section>
+      <section name="16">
+        <attstr name="name" val="Stevie White"/>
+        <attstr name="short name" val="S. White"/>
+        <attstr name="code name" val="WHI"/>
+        <attstr name="desc" val=""/>
+        <attstr name="team" val="usr-kanagawa"/>
+        <attstr name="author" val="Xavier Bertaux"/>
+        <attstr name="car name" val="sc-kanagawa-z35gts"/>
+        <attnum name="race number" val="13"/>
+        <attnum name="red" val="0.4"/>
+        <attnum name="green" val="0.7"/>
+        <attnum name="blue" val="0.2"/>
+        <attstr name="features" val="wet track"/>
+        <attstr name="nation" val="US"/>
+      </section>
+    </section>
+  </section>
+</params>
